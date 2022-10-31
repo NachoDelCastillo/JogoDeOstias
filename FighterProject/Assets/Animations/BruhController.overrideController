@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BruhController
+  m_Controller: {fileID: 9100000, guid: 05dc960c69d767f42bf12bc4925c287b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 337a47c91846b7247ba5d2e83a0ec9b3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 337a47c91846b7247ba5d2e83a0ec9b3, type: 2}

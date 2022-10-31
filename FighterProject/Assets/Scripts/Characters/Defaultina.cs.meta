@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 81b7b549354f98a4c868948d27a14f85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - characterData: {fileID: 11400000, guid: bc330fd590caa9b4c941da1bc3e13612, type: 2}
+  - basic_side: {fileID: 11400000, guid: b96838038d273b74bb0e72b73b650b08, type: 2}
+  - basic_up: {fileID: 11400000, guid: a5fcf06079d169145817498651f84080, type: 2}
+  - basic_down: {fileID: 11400000, guid: ef3f01b61cf1d8345ad4698ea05211f5, type: 2}
+  - special_side: {fileID: 11400000, guid: ceb8522d922399d4180c77e30d2a1af1, type: 2}
+  - special_up: {fileID: 11400000, guid: d23984c8ec698354cbc16b5b215540bc, type: 2}
+  - special_down: {fileID: 11400000, guid: 3f5a5052846a96748bcb1f354d2dbd2d, type: 2}
+  - playerController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
