@@ -121,6 +121,8 @@ public class PlayerController_2D : MonoBehaviour
 
     public virtual void Jump_Input(InputAction.CallbackContext context)
     {
+        Debug.Log("Jump_Input = ");
+
         if (context.started)
             jumpRememberTimer = jumpRemember;
 
